@@ -16,8 +16,11 @@ target_link_libraries(palindrome-number PRIVATE Catch2::Catch2WithMain)
 add_executable(roman-to-integer 13-RomanToInteger/main.cpp)
 target_link_libraries(roman-to-integer PRIVATE Catch2::Catch2WithMain)
 
-add_executable(longest-common-prefix 14-LongestCommonPrefix/main.cpp)
+add_executable(longest-common-prefix 14-LongestCommonPrefix/main.cpp 20-ValidParentheses/main.cpp)
 target_link_libraries(longest-common-prefix PRIVATE Catch2::Catch2WithMain)
+
+add_executable(valid-parentheses 20-ValidParentheses/main.cpp)
+target_link_libraries(valid-parentheses PRIVATE Catch2::Catch2WithMain)
 
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp 9-PalindromeNumber/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
