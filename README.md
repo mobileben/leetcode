@@ -17,5 +17,6 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/20-ValidParentheses/main.cpp) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/21-MergeTwoSortedLists/main.cpp) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26-RemoveDuplicatesFromSortedArray/main.cpp) | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876-MiddleOfTheLinkedList) | Easy |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |[C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 
