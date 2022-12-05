@@ -37,5 +37,8 @@ target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 add_executable(middle-of-the-linked-list 876-MiddleOfTheLinkedList/main.cpp)
 target_link_libraries(middle-of-the-linked-list PRIVATE Catch2::Catch2WithMain)
 
+add_executable(length-of-last-word 58-LengthOfLastWord/main.cpp)
+target_link_libraries(length-of-last-word PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp 9-PalindromeNumber/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)

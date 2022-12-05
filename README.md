@@ -19,6 +19,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26-RemoveDuplicatesFromSortedArray/main.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/27-RemoveElement/main.cpp) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](algorithms/cpp/35-SearchInsertPosition/main.cpp) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/58-LengthOfLastWord/main.cpp) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876-MiddleOfTheLinkedList/main.cpp) | Easy |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |[C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 
