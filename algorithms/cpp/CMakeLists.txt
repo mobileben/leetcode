@@ -25,5 +25,8 @@ target_link_libraries(valid-parentheses PRIVATE Catch2::Catch2WithMain)
 add_executable(merge-two-sorted-lists 21-MergeTwoSortedLists/main.cpp)
 target_link_libraries(merge-two-sorted-lists PRIVATE Catch2::Catch2WithMain)
 
+add_executable(remove-duplicates-from-sorted-array 26-RemoveDuplicatesFromSortedArray/main.cpp)
+target_link_libraries(remove-duplicates-from-sorted-array PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp 9-PalindromeNumber/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
