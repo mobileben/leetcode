@@ -22,5 +22,8 @@ target_link_libraries(longest-common-prefix PRIVATE Catch2::Catch2WithMain)
 add_executable(valid-parentheses 20-ValidParentheses/main.cpp)
 target_link_libraries(valid-parentheses PRIVATE Catch2::Catch2WithMain)
 
+add_executable(merge-two-sorted-lists 21-MergeTwoSortedLists/main.cpp)
+target_link_libraries(merge-two-sorted-lists PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp 9-PalindromeNumber/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
