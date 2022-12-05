@@ -31,6 +31,9 @@ target_link_libraries(remove-duplicates-from-sorted-array PRIVATE Catch2::Catch2
 add_executable(remove-element 27-RemoveElement/main.cpp)
 target_link_libraries(remove-element PRIVATE Catch2::Catch2WithMain)
 
+add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
+target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
+
 add_executable(middle-of-the-linked-list 876-MiddleOfTheLinkedList/main.cpp)
 target_link_libraries(middle-of-the-linked-list PRIVATE Catch2::Catch2WithMain)
 
