@@ -22,6 +22,11 @@ bool operator==(const ListNode& lhs, const ListNode& rhs) {
     return lhs.val == rhs.val;
 }
 
+std::ostream& operator<<(std::ostream& os, ListNode const& value) {
+    os << value.val;
+    return os;
+}
+
 struct List {
     ListNode *head;
 
@@ -103,6 +108,17 @@ bool operator==(const List& lhs, const List& rhs) {
         rNode = rNode->next;
     }
     return true;
+}
+
+std::ostream& operator<<(std::ostream& os, List const& value) {
+    auto v = value.toVector();
+    for (auto i=0;i<v.size();++i) {
+        os << v[i];
+        if (i < (v.size() - 1)) {
+            os << ", ";
+        }
+    }
+    return os;
 }
 
 #endif //LEETCODE_SINGLYLINKEDLIST_H
