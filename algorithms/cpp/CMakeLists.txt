@@ -13,6 +13,9 @@ target_link_libraries(two-sum PRIVATE Catch2::Catch2WithMain)
 add_executable(add-two-numbers 2-AddTwoNumbers/main.cpp)
 target_link_libraries(add-two-numbers PRIVATE Catch2::Catch2WithMain)
 
+add_executable(longest-substring-without-repeating-chars 3-LongestSubstringWithoutRepeatingChars/main.cpp)
+target_link_libraries(longest-substring-without-repeating-chars Catch2::Catch2WithMain)
+
 add_executable(palindrome-number 9-PalindromeNumber/main.cpp)
 target_link_libraries(palindrome-number PRIVATE Catch2::Catch2WithMain)
 
