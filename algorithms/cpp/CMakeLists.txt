@@ -58,5 +58,8 @@ target_link_libraries(add-binary PRIVATE Catch2::Catch2WithMain)
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
+add_executable(range-sum-of-bst 938-RangeSumOfBST/main.cpp)
+target_link_libraries(range-sum-of-bst PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp 9-PalindromeNumber/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
