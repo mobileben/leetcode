@@ -14,6 +14,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2-AddTwoNumbers/main.cpp) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](algorithms/cpp/3-LongestSubstringWithoutRepeatingChars/main.cpp) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/4-MedianOfTwoSortedArrays/main.cpp) | Hard |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](algorithms/cpp/5-LongestPalindromicSubstring/main.cpp) | Medium |
 | 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/9-PalindromeNumber/main.cpp) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](algorithms/cpp/13-RomanToInteger/main.cpp) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](algorithms/cpp/14-LongestCommonPrefix/main.cpp) | Easy |
