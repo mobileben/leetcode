@@ -27,6 +27,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](algorithms/cpp/66-PlusOne/main.cpp) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](algorithms/cpp/67-AddBinary/main.cpp) | Easy |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/328-OddEvenLinkedList/main.cpp) | Medium |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](algorithms/cpp/872-LeafSimilarTrees/main.cpp) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876-MiddleOfTheLinkedList/main.cpp) | Easy |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](algorithms/cpp/938-RangeSumOfBST/main.cpp) | Easy |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |[C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |

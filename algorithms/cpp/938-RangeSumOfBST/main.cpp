@@ -18,53 +18,7 @@
 #include <catch2/catch_all.hpp>
 
 #include <stack>
-
-struct TreeNode {
-    int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
-};
-
-struct Tree {
-    TreeNode *root;
-    Tree() : root(nullptr) {}
-    Tree(std::initializer_list<int> elements) : root(nullptr) {
-        for (auto e : elements) {
-            // INT_MIN used instead of null
-            if (e == std::numeric_limits<int>::min()) {
-                continue;
-            }
-
-            if (!root) {
-                root = new TreeNode(e);
-            } else {
-                // Populate BST
-                auto node = root;
-                while (node) {
-                    auto val = node->val;
-                    if (e <= val) {
-                        if (!node->left) {
-                            node->left = new TreeNode(e);
-                            break;
-                        } else {
-                            node = node->left;
-                        }
-                    } else {
-                        if (!node->right) {
-                            node->right = new TreeNode(e);
-                            break;
-                        } else {
-                            node = node->right;
-                        }
-                    }
-                }
-            }
-        }
-    }
-};
+#include "../include/BinarySearchTree.h"
 
 class Solution {
 public:

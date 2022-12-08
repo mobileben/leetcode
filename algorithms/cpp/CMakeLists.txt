@@ -46,9 +46,6 @@ target_link_libraries(remove-element PRIVATE Catch2::Catch2WithMain)
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
-add_executable(middle-of-the-linked-list 876-MiddleOfTheLinkedList/main.cpp)
-target_link_libraries(middle-of-the-linked-list PRIVATE Catch2::Catch2WithMain)
-
 add_executable(length-of-last-word 58-LengthOfLastWord/main.cpp)
 target_link_libraries(length-of-last-word PRIVATE Catch2::Catch2WithMain)
 
@@ -60,6 +57,12 @@ target_link_libraries(add-binary PRIVATE Catch2::Catch2WithMain)
 
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
+
+add_executable(leaf-similar-trees 872-LeafSimilarTrees/main.cpp)
+target_link_libraries(leaf-similar-trees PRIVATE Catch2::Catch2WithMain)
+
+add_executable(middle-of-the-linked-list 876-MiddleOfTheLinkedList/main.cpp)
+target_link_libraries(middle-of-the-linked-list PRIVATE Catch2::Catch2WithMain)
 
 add_executable(range-sum-of-bst 938-RangeSumOfBST/main.cpp)
 target_link_libraries(range-sum-of-bst PRIVATE Catch2::Catch2WithMain)
