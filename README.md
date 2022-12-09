@@ -16,6 +16,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/4-MedianOfTwoSortedArrays/main.cpp) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](algorithms/cpp/5-LongestPalindromicSubstring/main.cpp) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/7-ReverseInteger/main.cpp) | Medium |
+| 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/8-StringToInteger/main.cpp) | Medium |
 | 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/9-PalindromeNumber/main.cpp) | Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](algorithms/cpp/13-RomanToInteger/main.cpp) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](algorithms/cpp/14-LongestCommonPrefix/main.cpp) | Easy |
