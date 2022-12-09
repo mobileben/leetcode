@@ -22,6 +22,9 @@ target_link_libraries(median-of-two-sorted-arrays Catch2::Catch2WithMain)
 add_executable(longest-palindromic-substring 5-LongestPalindromicSubstring/main.cpp)
 target_link_libraries(longest-palindromic-substring Catch2::Catch2WithMain)
 
+add_executable(reverse-integer 7-ReverseInteger/main.cpp)
+target_link_libraries(reverse-integer Catch2::Catch2WithMain)
+
 add_executable(palindrome-number 9-PalindromeNumber/main.cpp)
 target_link_libraries(palindrome-number PRIVATE Catch2::Catch2WithMain)
 
