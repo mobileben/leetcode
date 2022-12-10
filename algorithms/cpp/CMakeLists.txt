@@ -61,6 +61,9 @@ target_link_libraries(plus-one PRIVATE Catch2::Catch2WithMain)
 add_executable(add-binary 67-AddBinary/main.cpp)
 target_link_libraries(add-binary PRIVATE Catch2::Catch2WithMain)
 
+add_executable(valid-palindrome 125-ValidPalindrome/main.cpp)
+target_link_libraries(valid-palindrome PRIVATE Catch2::Catch2WithMain)
+
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
