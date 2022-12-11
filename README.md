@@ -18,6 +18,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](algorithms/cpp/7-ReverseInteger/main.cpp) | Medium |
 | 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](algorithms/cpp/8-StringToInteger/main.cpp) | Medium |
 | 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](algorithms/cpp/9-PalindromeNumber/main.cpp) | Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](algorithms/cpp/11-ContainerWithMostWater/main.cpp) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](algorithms/cpp/13-RomanToInteger/main.cpp) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](algorithms/cpp/14-LongestCommonPrefix/main.cpp) | Easy |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](algorithms/cpp/17-LetterCombosOfPhoneNumber/main.cpp) | Medium |
