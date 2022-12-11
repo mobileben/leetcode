@@ -23,6 +23,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](algorithms/cpp/14-LongestCommonPrefix/main.cpp) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](algorithms/cpp/15-3Sum/main.cpp) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](algorithms/cpp/17-LetterCombosOfPhoneNumber/main.cpp) | Medium |
+| 19 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/19-RemoveNthNodeFromEndOfList/main.cpp) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/20-ValidParentheses/main.cpp) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/21-MergeTwoSortedLists/main.cpp) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26-RemoveDuplicatesFromSortedArray/main.cpp) | Easy |

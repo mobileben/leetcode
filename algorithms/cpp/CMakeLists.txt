@@ -46,6 +46,9 @@ target_link_libraries(3sum PRIVATE Catch2::Catch2WithMain)
 add_executable(letter-combos-phone-num 17-LetterCombosOfPhoneNumber/main.cpp)
 target_link_libraries(letter-combos-phone-num PRIVATE Catch2::Catch2WithMain)
 
+add_executable(remove-nth-node-from-end 19-RemoveNthNodeFromEndOfList/main.cpp)
+target_link_libraries(remove-nth-node-from-end PRIVATE Catch2::Catch2WithMain)
+
 add_executable(valid-parentheses 20-ValidParentheses/main.cpp)
 target_link_libraries(valid-parentheses PRIVATE Catch2::Catch2WithMain)
 
