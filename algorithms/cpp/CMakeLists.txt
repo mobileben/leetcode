@@ -55,6 +55,9 @@ target_link_libraries(valid-parentheses PRIVATE Catch2::Catch2WithMain)
 add_executable(merge-two-sorted-lists 21-MergeTwoSortedLists/main.cpp)
 target_link_libraries(merge-two-sorted-lists PRIVATE Catch2::Catch2WithMain)
 
+add_executable(generate-parentheses 22-GenerateParentheses/main.cpp)
+target_link_libraries(generate-parentheses PRIVATE Catch2::Catch2WithMain)
+
 add_executable(remove-duplicates-from-sorted-array 26-RemoveDuplicatesFromSortedArray/main.cpp)
 target_link_libraries(remove-duplicates-from-sorted-array PRIVATE Catch2::Catch2WithMain)
 
