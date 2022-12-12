@@ -76,6 +76,9 @@ target_link_libraries(plus-one PRIVATE Catch2::Catch2WithMain)
 add_executable(add-binary 67-AddBinary/main.cpp)
 target_link_libraries(add-binary PRIVATE Catch2::Catch2WithMain)
 
+add_executable(climbing-stairs 70-ClimbingStairs/main.cpp)
+target_link_libraries(climbing-stairs PRIVATE Catch2::Catch2WithMain)
+
 add_executable(valid-palindrome 125-ValidPalindrome/main.cpp)
 target_link_libraries(valid-palindrome PRIVATE Catch2::Catch2WithMain)
 
