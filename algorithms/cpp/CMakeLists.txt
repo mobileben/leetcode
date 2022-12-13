@@ -64,6 +64,9 @@ target_link_libraries(remove-duplicates-from-sorted-array PRIVATE Catch2::Catch2
 add_executable(remove-element 27-RemoveElement/main.cpp)
 target_link_libraries(remove-element PRIVATE Catch2::Catch2WithMain)
 
+add_executable(find-index-first-occurrence-in-string 28-FindIndexOfFirstOccurrenceInString/main.cpp)
+target_link_libraries(find-index-first-occurrence-in-string PRIVATE Catch2::Catch2WithMain)
+
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
