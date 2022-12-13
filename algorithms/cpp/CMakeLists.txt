@@ -67,6 +67,9 @@ target_link_libraries(remove-element PRIVATE Catch2::Catch2WithMain)
 add_executable(find-index-first-occurrence-in-string 28-FindIndexOfFirstOccurrenceInString/main.cpp)
 target_link_libraries(find-index-first-occurrence-in-string PRIVATE Catch2::Catch2WithMain)
 
+add_executable(divide-two-integers 29-DivideTwoIntegers/main.cpp)
+target_link_libraries(divide-two-integers PRIVATE Catch2::Catch2WithMain)
+
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
