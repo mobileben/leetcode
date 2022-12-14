@@ -88,6 +88,9 @@ target_link_libraries(climbing-stairs PRIVATE Catch2::Catch2WithMain)
 add_executable(valid-palindrome 125-ValidPalindrome/main.cpp)
 target_link_libraries(valid-palindrome PRIVATE Catch2::Catch2WithMain)
 
+add_executable(house-robber 198-HouseRobber/main.cpp)
+target_link_libraries(house-robber PRIVATE Catch2::Catch2WithMain)
+
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
