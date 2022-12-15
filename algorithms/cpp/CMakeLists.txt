@@ -70,6 +70,9 @@ target_link_libraries(find-index-first-occurrence-in-string PRIVATE Catch2::Catc
 add_executable(divide-two-integers 29-DivideTwoIntegers/main.cpp)
 target_link_libraries(divide-two-integers PRIVATE Catch2::Catch2WithMain)
 
+add_executable(search-in-rotated-sorted-array 33-SearchInRotatedSortedArray/main.cpp)
+target_link_libraries(search-in-rotated-sorted-array PRIVATE Catch2::Catch2WithMain)
+
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
