@@ -45,5 +45,6 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](algorithms/cpp/931-MinimumFallingPathSum/main.cpp) | Medium |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](algorithms/cpp/938-RangeSumOfBST/main.cpp) | Easy |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](algorithms/cpp/1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp) | Medium |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |[C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 
