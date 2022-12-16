@@ -39,6 +39,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](algorithms/cpp/70-ClimbingStairs/main.cpp) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](algorithms/cpp/125-ValidPalindrome/main.cpp) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](algorithms/cpp/198-HouseRobber/main.cpp) | Medium |
+| 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](algorithms/cpp/232-ImplementQueueUsingStacks/main.cpp) | Easy |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/328-OddEvenLinkedList/main.cpp) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](algorithms/cpp/872-LeafSimilarTrees/main.cpp) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876-MiddleOfTheLinkedList/main.cpp) | Easy |

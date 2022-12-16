@@ -94,6 +94,9 @@ target_link_libraries(valid-palindrome PRIVATE Catch2::Catch2WithMain)
 add_executable(house-robber 198-HouseRobber/main.cpp)
 target_link_libraries(house-robber PRIVATE Catch2::Catch2WithMain)
 
+add_executable(implement-queue-using-stacks 232-ImplementQueueUsingStacks/main.cpp)
+target_link_libraries(implement-queue-using-stacks PRIVATE Catch2::Catch2WithMain)
+
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
