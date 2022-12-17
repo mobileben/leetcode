@@ -73,6 +73,9 @@ target_link_libraries(divide-two-integers PRIVATE Catch2::Catch2WithMain)
 add_executable(search-in-rotated-sorted-array 33-SearchInRotatedSortedArray/main.cpp)
 target_link_libraries(search-in-rotated-sorted-array PRIVATE Catch2::Catch2WithMain)
 
+add_executable(find-first-and-last-pos-of-elem-in-sorted-array 34-FindFirstLastPosOfElemInSortedArray/main.cpp)
+target_link_libraries(find-first-and-last-pos-of-elem-in-sorted-array PRIVATE Catch2::Catch2WithMain)
+
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
