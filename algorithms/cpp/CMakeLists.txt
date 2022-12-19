@@ -106,6 +106,9 @@ target_link_libraries(implement-queue-using-stacks PRIVATE Catch2::Catch2WithMai
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
+add_executable(daily-temperatures 739-DailyTemperatures/main.cpp)
+target_link_libraries(daily-temperatures PRIVATE Catch2::Catch2WithMain)
+
 add_executable(leaf-similar-trees 872-LeafSimilarTrees/main.cpp)
 target_link_libraries(leaf-similar-trees PRIVATE Catch2::Catch2WithMain)
 
