@@ -109,6 +109,9 @@ target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 add_executable(daily-temperatures 739-DailyTemperatures/main.cpp)
 target_link_libraries(daily-temperatures PRIVATE Catch2::Catch2WithMain)
 
+add_executable(keys-and-rooms 841-KeysAndRooms/main.cpp)
+target_link_libraries(keys-and-rooms PRIVATE Catch2::Catch2WithMain)
+
 add_executable(leaf-similar-trees 872-LeafSimilarTrees/main.cpp)
 target_link_libraries(leaf-similar-trees PRIVATE Catch2::Catch2WithMain)
 

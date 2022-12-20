@@ -168,7 +168,6 @@ public:
             graph[node1].push_back(node0);
         }
 
-
 #ifdef BFS
         return bfs(graph, source, destination);
 #elif defined(DFS_ITERATIVE)
