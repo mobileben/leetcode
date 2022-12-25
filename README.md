@@ -54,4 +54,4 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](algorithms/cpp/1971-FindIfPathExistsInGraph/main.cpp) | Easy |
-
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [C++](algorithms/cpp/2389-LongestSubsequenceWithLimitedSum/main.cpp) | Easy |
