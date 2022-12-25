@@ -118,6 +118,9 @@ target_link_libraries(leaf-similar-trees PRIVATE Catch2::Catch2WithMain)
 add_executable(middle-of-the-linked-list 876-MiddleOfTheLinkedList/main.cpp)
 target_link_libraries(middle-of-the-linked-list PRIVATE Catch2::Catch2WithMain)
 
+add_executable(possible-bipartition 886-PossibleBipartition/main.cpp)
+target_link_libraries(possible-bipartition PRIVATE Catch2::Catch2WithMain)
+
 add_executable(minimum-falling-path-sum 931-MinimumFallingPathSum/main.cpp)
 target_link_libraries(minimum-falling-path-sum PRIVATE Catch2::Catch2WithMain)
 

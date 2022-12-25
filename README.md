@@ -47,6 +47,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](algorithms/cpp/841-KeysAndRooms/main.cpp) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](algorithms/cpp/872-LeafSimilarTrees/main.cpp) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876-MiddleOfTheLinkedList/main.cpp) | Easy |
+| 886 | [Possbile Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](algorithms/cpp/886-PossibleBipartition/main.cpp) | Medium |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](algorithms/cpp/931-MinimumFallingPathSum/main.cpp) | Medium |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](algorithms/cpp/938-RangeSumOfBST/main.cpp) | Easy |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](algorithms/cpp/1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp) | Medium |
