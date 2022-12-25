@@ -79,6 +79,9 @@ target_link_libraries(find-first-and-last-pos-of-elem-in-sorted-array PRIVATE Ca
 add_executable(search-insert-position 35-SearchInsertPosition/main.cpp)
 target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 
+add_executable(valid-sudoku 36-ValidSudoku/main.cpp)
+target_link_libraries(valid-sudoku PRIVATE Catch2::Catch2WithMain)
+
 add_executable(length-of-last-word 58-LengthOfLastWord/main.cpp)
 target_link_libraries(length-of-last-word PRIVATE Catch2::Catch2WithMain)
 
