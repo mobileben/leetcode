@@ -82,6 +82,9 @@ target_link_libraries(search-insert-position PRIVATE Catch2::Catch2WithMain)
 add_executable(valid-sudoku 36-ValidSudoku/main.cpp)
 target_link_libraries(valid-sudoku PRIVATE Catch2::Catch2WithMain)
 
+add_executable(count-and-say 38-CountAndSay/main.cpp)
+target_link_libraries(count-and-say PRIVATE Catch2::Catch2WithMain)
+
 add_executable(jump-game 55-JumpGame/main.cpp)
 target_link_libraries(jump-game PRIVATE Catch2::Catch2WithMain)
 
