@@ -145,5 +145,8 @@ target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
 add_executable(find-if-path-exists-in-graph 1971-FindIfPathExistsInGraph/main.cpp)
 target_link_libraries(find-if-path-exists-in-graph PRIVATE Catch2::Catch2WithMain)
 
+add_executable(max-bags-with-full-capacity-rocks 2279-MaxBagsWithFullCapacityRocks/main.cpp)
+target_link_libraries(max-bags-with-full-capacity-rocks PRIVATE Catch2::Catch2WithMain)
+
 add_executable(longest-subsequence-with-limited-sum 2389-LongestSubsequenceWithLimitedSum/main.cpp)
 target_link_libraries(longest-subsequence-with-limited-sum PRIVATE Catch2::Catch2WithMain)

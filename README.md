@@ -30,7 +30,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26-RemoveDuplicatesFromSortedArray/main.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/27-RemoveElement/main.cpp) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](algorithms/cpp/28-FindIndexOfFirstOccurrenceInString/main.cpp) | Medium |
-| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](algorithm/cpp/29-DivideTwoIntegers/main.cpp) | Medium |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](algorithms/cpp/29-DivideTwoIntegers/main.cpp) | Medium |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](algorithms/cpp/33-SearchInRotatedSortedArray/main.cpp) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](algorithms/cpp/34-FindFirstLastPosOfElemInSortedArray/main.cpp) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](algorithms/cpp/35-SearchInsertPosition/main.cpp) | Easy |
@@ -56,4 +56,5 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](algorithms/cpp/1971-FindIfPathExistsInGraph/main.cpp) | Easy |
+| 2279 | [Maximum Bags with Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [C++](algorithms/cpp/2279-MaxBagsWithFullCapacityRocks/main.cpp) | Medium |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [C++](algorithms/cpp/2389-LongestSubsequenceWithLimitedSum/main.cpp) | Easy |
