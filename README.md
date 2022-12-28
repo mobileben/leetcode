@@ -36,6 +36,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](algorithms/cpp/35-SearchInsertPosition/main.cpp) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](algorithms/cpp/36-ValidSudoku/main.cpp) | Medium |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](algorithms/cpp/38-CountAndSay/main.cpp) | Medium |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](algorithms/cpp/41-FirstMissingPositive/main.cpp) | Hard |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](algorithms/cpp/55-JumpGame/main.cpp) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/58-LengthOfLastWord/main.cpp) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](algorithms/cpp/66-PlusOne/main.cpp) | Easy |

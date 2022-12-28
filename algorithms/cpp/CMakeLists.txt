@@ -85,6 +85,9 @@ target_link_libraries(valid-sudoku PRIVATE Catch2::Catch2WithMain)
 add_executable(count-and-say 38-CountAndSay/main.cpp)
 target_link_libraries(count-and-say PRIVATE Catch2::Catch2WithMain)
 
+add_executable(first-missing-positive 41-FirstMissingPositive/main.cpp)
+target_link_libraries(first-missing-positive PRIVATE Catch2::Catch2WithMain)
+
 add_executable(jump-game 55-JumpGame/main.cpp)
 target_link_libraries(jump-game PRIVATE Catch2::Catch2WithMain)
 
