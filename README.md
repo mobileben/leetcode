@@ -27,7 +27,8 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 19 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/19-RemoveNthNodeFromEndOfList/main.cpp) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](algorithms/cpp/20-ValidParentheses/main.cpp) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/21-MergeTwoSortedLists/main.cpp) | Easy |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](algorithms/cpp/22-GenerateParentheses/main.cpp) | Medium |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](algorithms/cpp/22-GenerateParentheses/main.cpp) | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](algorithms/cpp/23-MergeKSortedLists/main.cpp) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26-RemoveDuplicatesFromSortedArray/main.cpp) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](algorithms/cpp/27-RemoveElement/main.cpp) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](algorithms/cpp/28-FindIndexOfFirstOccurrenceInString/main.cpp) | Medium |
