@@ -31,6 +31,9 @@ target_link_libraries(string-to-integer PRIVATE Catch2::Catch2WithMain)
 add_executable(palindrome-number 9-PalindromeNumber/main.cpp)
 target_link_libraries(palindrome-number PRIVATE Catch2::Catch2WithMain)
 
+add_executable(regular-pattern-matching 10-RegularExpressionMatching/main.cpp)
+target_link_libraries(regular-pattern-matching PRIVATE Catch2::Catch2WithMain)
+
 add_executable(container-with-most-water 11-ContainerWithMostWater/main.cpp)
 target_link_libraries(container-with-most-water PRIVATE Catch2::Catch2WithMain)
 
