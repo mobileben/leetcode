@@ -62,5 +62,6 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [C++](algorithms/cpp/1834-SingleThreadedCPU/main.cpp) | Medium |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [C++](algorithms/cpp/1962-RemoveStonesToMinTotal/main.cpp) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](algorithms/cpp/1971-FindIfPathExistsInGraph/main.cpp) | Easy |
+| 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](algorithms/cpp/2244-MinimumRoundsToCompleteAllTasks/main.cpp) | Medium |
 | 2279 | [Maximum Bags with Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [C++](algorithms/cpp/2279-MaxBagsWithFullCapacityRocks/main.cpp) | Medium |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [C++](algorithms/cpp/2389-LongestSubsequenceWithLimitedSum/main.cpp) | Easy |

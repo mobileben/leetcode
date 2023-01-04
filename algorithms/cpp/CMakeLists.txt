@@ -163,6 +163,9 @@ target_link_libraries(remove-stones-to-minimize-the-total PRIVATE Catch2::Catch2
 add_executable(find-if-path-exists-in-graph 1971-FindIfPathExistsInGraph/main.cpp)
 target_link_libraries(find-if-path-exists-in-graph PRIVATE Catch2::Catch2WithMain)
 
+add_executable(minimum-rounds-to-complete-all-tasks 2244-MinimumRoundsToCompleteAllTasks/main.cpp)
+target_link_libraries(minimum-rounds-to-complete-all-tasks PRIVATE Catch2::Catch2WithMain)
+
 add_executable(max-bags-with-full-capacity-rocks 2279-MaxBagsWithFullCapacityRocks/main.cpp)
 target_link_libraries(max-bags-with-full-capacity-rocks PRIVATE Catch2::Catch2WithMain)
 
