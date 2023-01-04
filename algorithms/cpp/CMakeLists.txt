@@ -154,6 +154,9 @@ target_link_libraries(longest-common-subsequence PRIVATE Catch2::Catch2WithMain)
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
 
+add_executable(single-threaded-cpu 1834-SingleThreadedCPU/main.cpp)
+target_link_libraries(single-threaded-cpu PRIVATE Catch2::Catch2WithMain)
+
 add_executable(remove-stones-to-minimize-the-total 1962-RemoveStonesToMinTotal/main.cpp)
 target_link_libraries(remove-stones-to-minimize-the-total PRIVATE Catch2::Catch2WithMain)
 
