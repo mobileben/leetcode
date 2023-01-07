@@ -39,6 +39,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](algorithms/cpp/36-ValidSudoku/main.cpp) | Medium |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](algorithms/cpp/38-CountAndSay/main.cpp) | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](algorithms/cpp/41-FirstMissingPositive/main.cpp) | Hard |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](algorithms/cpp/42-TrappingRainWater/main.cpp) | Hard |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](algorithms/cpp/55-JumpGame/main.cpp) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](algorithms/cpp/58-LengthOfLastWord/main.cpp) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](algorithms/cpp/66-PlusOne/main.cpp) | Easy |
@@ -60,6 +61,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](algorithms/cpp/1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp) | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](algorithms/cpp/1833-MaximumIceCreamBars/main.cpp) | Medium |
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [C++](algorithms/cpp/1834-SingleThreadedCPU/main.cpp) | Medium |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [C++](algorithms/cpp/1962-RemoveStonesToMinTotal/main.cpp) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](algorithms/cpp/1971-FindIfPathExistsInGraph/main.cpp) | Easy |

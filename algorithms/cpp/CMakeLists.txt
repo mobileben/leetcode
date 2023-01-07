@@ -94,6 +94,9 @@ target_link_libraries(count-and-say PRIVATE Catch2::Catch2WithMain)
 add_executable(first-missing-positive 41-FirstMissingPositive/main.cpp)
 target_link_libraries(first-missing-positive PRIVATE Catch2::Catch2WithMain)
 
+add_executable(trapping-rain-water 42-TrappingRainWater/main.cpp)
+target_link_libraries(trapping-rain-water PRIVATE Catch2::Catch2WithMain)
+
 add_executable(jump-game 55-JumpGame/main.cpp)
 target_link_libraries(jump-game PRIVATE Catch2::Catch2WithMain)
 
@@ -156,6 +159,9 @@ target_link_libraries(longest-common-subsequence PRIVATE Catch2::Catch2WithMain)
 
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
+
+add_executable(maximum-ice-cream-bars 1833-MaximumIceCreamBars/main.cpp)
+target_link_libraries(maximum-ice-cream-bars PRIVATE Catch2::Catch2WithMain)
 
 add_executable(single-threaded-cpu 1834-SingleThreadedCPU/main.cpp)
 target_link_libraries(single-threaded-cpu PRIVATE Catch2::Catch2WithMain)
