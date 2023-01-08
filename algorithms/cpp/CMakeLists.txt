@@ -118,6 +118,9 @@ target_link_libraries(valid-palindrome PRIVATE Catch2::Catch2WithMain)
 add_executable(gas-station 134-GasStation/main.cpp)
 target_link_libraries(gas-station PRIVATE Catch2::Catch2WithMain)
 
+add_executable(max-points-on-line 149-MaxPointsOnLine/main.cpp)
+target_link_libraries(max-points-on-line PRIVATE Catch2::Catch2WithMain)
+
 add_executable(evaluate-reverse-polish-notation 150-EvaluateReversePolishNotation/main.cpp)
 target_link_libraries(evaluate-reverse-polish-notation PRIVATE Catch2::Catch2WithMain)
 
