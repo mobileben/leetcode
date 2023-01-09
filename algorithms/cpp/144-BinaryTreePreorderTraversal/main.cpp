@@ -36,24 +36,24 @@
 class Solution {
 public:
 #ifdef RECURSIVE
-    void bfs(TreeNode *root, std::vector<int>& results) {
+    void dfs(TreeNode *root, std::vector<int>& results) {
         if (!root) return;
 
         results.push_back(root->val);
 
         if (root->left) {
-            bfs(root->left, results);
+            dfs(root->left, results);
         }
 
         if (root->right) {
-            bfs(root->right, results);
+            dfs(root->right, results);
         }
     }
 
     std::vector<int> preorderTraversal(TreeNode *root) {
         std::vector<int> results;
 
-        bfs(root, results);
+        dfs(root, results);
 
         return results;
     }
