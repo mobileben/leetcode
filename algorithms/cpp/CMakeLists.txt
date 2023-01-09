@@ -97,6 +97,9 @@ target_link_libraries(first-missing-positive PRIVATE Catch2::Catch2WithMain)
 add_executable(trapping-rain-water 42-TrappingRainWater/main.cpp)
 target_link_libraries(trapping-rain-water PRIVATE Catch2::Catch2WithMain)
 
+add_executable(permutations 46-Permutations/main.cpp)
+target_link_libraries(permutations PRIVATE Catch2::Catch2WithMain)
+
 add_executable(jump-game 55-JumpGame/main.cpp)
 target_link_libraries(jump-game PRIVATE Catch2::Catch2WithMain)
 
