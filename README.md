@@ -5,12 +5,15 @@ My solutions to LeetCode problems.
 My efforts towards working on LeetCode problems is not about preparing for interviews. Rather it is more about keeping my skills sharp (hopefully?).
 
 ## C++ Support
-I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/Catch2) for unit testing. As CLion uses `cmake` for its project structure, one doesn't need CLion to build.
+I used CLion as my IDE. It is setup to use [Catch2](https://github.com/catchorg/Catch2) for unit testing. As CLion uses `cmake` for its project structure, one doesn't need CLion to build.
+
+## Python Support
+I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/3/library/unittest.html) for unit testing. I used these [instructions](https://www.jetbrains.com/help/pycharm/testing-your-first-python-application.html) for setting up my Project. Note that my approach is I have a singular project with multiple directories for each problem. I add a Configuration per problem. I will iterate on this over time.
 
 ## [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty |
 |:-:|:-:|:-:|:-:|
-| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) | Easy |
+| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) [Python](algorithms/python/1-TwoSum/main.py) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2-AddTwoNumbers/main.cpp) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](algorithms/cpp/3-LongestSubstringWithoutRepeatingChars/main.cpp) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/4-MedianOfTwoSortedArrays/main.cpp) | Hard |
