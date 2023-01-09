@@ -48,6 +48,7 @@ I used CLion as my IDE. It is setup up use [Catch2](https://github.com/catchorg/
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](algorithms/cpp/70-ClimbingStairs/main.cpp) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](algorithms/cpp/125-ValidPalindrome/main.cpp) | Easy |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](algorithms/cpp/134-GasStation/main.cpp) | Medium |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C++](algorithms/cpp/144-BinaryTreePreorderTraversal/main.cpp) | Easy |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [C++](algorithms/cpp/149-MaxPointsOnLine/main.cpp) | Hard |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](algorithms/cpp/150-EvaluateReversePolishNotation/main.cpp) | Medium |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](algorithms/cpp/198-HouseRobber/main.cpp) | Medium |
