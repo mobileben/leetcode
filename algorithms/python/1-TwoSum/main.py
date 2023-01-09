@@ -1,3 +1,16 @@
+#
+# https://leetcode.com/problems/two-sum/
+# Easy
+# Topics: Array, Hash Table
+#
+# We can do a one pass loop of our list. As we traverse the list, we check to see if the addend we need is in the dict.
+# If it is, we have our answer. If it is not, we simply add our current element. Eventually, if the other addend exists
+# we will encounter it.
+#
+# Time Complexity: O(n)
+# Space Complexity: O(n)
+#
+
 from typing import List
 from typing import Dict
 
