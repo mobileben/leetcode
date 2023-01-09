@@ -36,7 +36,6 @@ struct Tree {
             node = queue.front();
             queue.pop();
 
-            auto next = index + 1;
             if (index < len) {
                 auto val = v[index++];
                 if (val != std::numeric_limits<int>::min()) {
