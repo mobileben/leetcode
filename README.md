@@ -13,8 +13,8 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 ## [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty |
 |:-:|:-:|:-:|:-:|
-| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) `&vert;` [Python](algorithms/python/1-TwoSum/main.py) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2-AddTwoNumbers/main.cpp) `&vert;` [Python](algorithms/python/2-AddTwoNumbers/main.py) | Medium |
+| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) <code>&vert;</code> [Python](algorithms/python/1-TwoSum/main.py) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2-AddTwoNumbers/main.cpp) \| [Python](algorithms/python/2-AddTwoNumbers/main.py) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](algorithms/cpp/3-LongestSubstringWithoutRepeatingChars/main.cpp) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/4-MedianOfTwoSortedArrays/main.cpp) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](algorithms/cpp/5-LongestPalindromicSubstring/main.cpp) | Medium |
