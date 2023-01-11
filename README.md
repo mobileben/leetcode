@@ -68,6 +68,7 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](algorithms/cpp/938-RangeSumOfBST/main.cpp) | Easy |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](algorithms/cpp/1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp) | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](algorithms/cpp/1443-MinimumTimeToCollectApples/main.cpp) \| [Python](algorithms/python/1443-MininumTimeToCollectApples/main.py) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](algorithms/cpp/1833-MaximumIceCreamBars/main.cpp) | Medium |
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [C++](algorithms/cpp/1834-SingleThreadedCPU/main.cpp) | Medium |

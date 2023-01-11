@@ -172,6 +172,9 @@ target_link_libraries(maximum-difference-between-node-and-ancestor PRIVATE Catch
 add_executable(longest-common-subsequence 1143-LongestCommonSubsequence/main.cpp)
 target_link_libraries(longest-common-subsequence PRIVATE Catch2::Catch2WithMain)
 
+add_executable(minimum-time-to-collect-apples 1443-MinimumTimeToCollectApples/main.cpp)
+target_link_libraries(minimum-time-to-collect-apples PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
 
