@@ -59,6 +59,7 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 | 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](algorithms/cpp/232-ImplementQueueUsingStacks/main.cpp) | Easy |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/328-OddEvenLinkedList/main.cpp) | Medium |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](algorithms/cpp/452-MinimumNumArrowsToBurstBalloons/main.cpp) | Medium |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [C++](algorithms/cpp/622-DesignCircularQueue/main.cpp) \| [Python](algorithms/python/622-DesignCircularQueue/main.py) | Medium |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](algorithms/cpp/739-DailyTemperatures/main.cpp) | Medium |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](algorithms/cpp/841-KeysAndRooms/main.cpp) | Medium |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](algorithms/cpp/872-LeafSimilarTrees/main.cpp) | Easy |

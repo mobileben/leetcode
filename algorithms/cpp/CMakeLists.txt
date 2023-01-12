@@ -145,6 +145,9 @@ target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 add_executable(minimum-number-of-arrows-to-burst-balloons 452-MinimumNumArrowsToBurstBalloons/main.cpp)
 target_link_libraries(minimum-number-of-arrows-to-burst-balloons PRIVATE Catch2::Catch2WithMain)
 
+add_executable(design-circular-queue 622-DesignCircularQueue/main.cpp)
+target_link_libraries(design-circular-queue PRIVATE Catch2::Catch2WithMain)
+
 add_executable(daily-temperatures 739-DailyTemperatures/main.cpp)
 target_link_libraries(daily-temperatures PRIVATE Catch2::Catch2WithMain)
 
