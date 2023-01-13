@@ -178,6 +178,9 @@ target_link_libraries(longest-common-subsequence PRIVATE Catch2::Catch2WithMain)
 add_executable(minimum-time-to-collect-apples 1443-MinimumTimeToCollectApples/main.cpp)
 target_link_libraries(minimum-time-to-collect-apples PRIVATE Catch2::Catch2WithMain)
 
+add_executable(num-nodes-in-sub-tree-with-same-label 1519-NumNodesInSubTreeWithSameLabel/main.cpp)
+target_link_libraries(num-nodes-in-sub-tree-with-same-label PRIVATE Catch2::Catch2WithMain)
+
 add_executable(string-halves-alike 1704-StringHalvesAlike/main.cpp)
 target_link_libraries(string-halves-alike PRIVATE Catch2::Catch2WithMain)
 
