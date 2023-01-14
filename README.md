@@ -13,7 +13,7 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 ## [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/)
 | # | Title | Solution | Difficulty |
 |:-:|:-:|:-:|:-:|
-| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) <code>&vert;</code> [Python](algorithms/python/1-TwoSum/main.py) | Easy |
+| 1| [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](algorithms/cpp/1-TwoSum/main.cpp) \| [Python](algorithms/python/1-TwoSum/main.py) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2-AddTwoNumbers/main.cpp) \| [Python](algorithms/python/2-AddTwoNumbers/main.py) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](algorithms/cpp/3-LongestSubstringWithoutRepeatingChars/main.cpp) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](algorithms/cpp/4-MedianOfTwoSortedArrays/main.cpp) | Hard |
@@ -69,13 +69,14 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](algorithms/cpp/938-RangeSumOfBST/main.cpp) | Easy |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](algorithms/cpp/1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp) | Medium |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](algorithms/cpp/1143-LongestCommonSubsequence/main.cpp) | Medium |
-| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](algorithms/cpp/1443-MinimMinimumTimeToCollectApplesumTimeToCollectApples/main.cpp) \| [Python](algorithms/python/1443-MinimumTimeToCollectApples/main.py) | Medium |
-| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [C++](algorithms/cpp/NumNodesInSubTreeWithSameLabel/main.cpp) \| [Python](algorithms/python/NumNodesInSubTreeWithSameLabel/main.py) | Medium |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [C++](algorithms/cpp/1443-MinimumTimeToCollectApples/main.cpp) \| [Python](algorithms/python/1443-MinimumTimeToCollectApples/main.py) | Medium |
+| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [C++](algorithms/cpp/1519-NumNodesInSubTreeWithSameLabel/main.cpp) \| [Python](algorithms/python/1519-NumNodesInSubTreeWithSameLabel/main.py) | Medium |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](algorithms/cpp/1704-StringHalvesAlike/main.cpp) | Easy |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](algorithms/cpp/1833-MaximumIceCreamBars/main.cpp) | Medium |
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [C++](algorithms/cpp/1834-SingleThreadedCPU/main.cpp) | Medium |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [C++](algorithms/cpp/1962-RemoveStonesToMinTotal/main.cpp) | Medium |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](algorithms/cpp/1971-FindIfPathExistsInGraph/main.cpp) | Easy |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](algorithms/cpp/2244-MinimumRoundsToCompleteAllTasks/main.cpp) | Medium |
+| 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [C++](algorithms/cpp/2246-LongestPathWithDiffAdjacentChars/main.cpp) \| [Python](algorithms/python/2246-LongestPathWithDiffAdjacentChars/main.py) | Hard |
 | 2279 | [Maximum Bags with Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [C++](algorithms/cpp/2279-MaxBagsWithFullCapacityRocks/main.cpp) | Medium |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [C++](algorithms/cpp/2389-LongestSubsequenceWithLimitedSum/main.cpp) | Easy |

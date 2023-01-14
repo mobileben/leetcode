@@ -199,6 +199,9 @@ target_link_libraries(find-if-path-exists-in-graph PRIVATE Catch2::Catch2WithMai
 add_executable(minimum-rounds-to-complete-all-tasks 2244-MinimumRoundsToCompleteAllTasks/main.cpp)
 target_link_libraries(minimum-rounds-to-complete-all-tasks PRIVATE Catch2::Catch2WithMain)
 
+add_executable(longest-path-with-diff-adjacent-chars 2246-LongestPathWithDiffAdjacentChars/main.cpp)
+target_link_libraries(longest-path-with-diff-adjacent-chars PRIVATE Catch2::Catch2WithMain)
+
 add_executable(max-bags-with-full-capacity-rocks 2279-MaxBagsWithFullCapacityRocks/main.cpp)
 target_link_libraries(max-bags-with-full-capacity-rocks PRIVATE Catch2::Catch2WithMain)
 
