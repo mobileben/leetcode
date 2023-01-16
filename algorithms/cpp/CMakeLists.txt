@@ -142,6 +142,9 @@ target_link_libraries(implement-queue-using-stacks PRIVATE Catch2::Catch2WithMai
 add_executable(odd-even-linked-list 328-OddEvenLinkedList/main.cpp)
 target_link_libraries(odd-even-linked-list PRIVATE Catch2::Catch2WithMain)
 
+add_executable(moving-average-from-data-stream 346-MovingAverageFromDataStream/main.cpp)
+target_link_libraries(moving-average-from-data-stream PRIVATE Catch2::Catch2WithMain)
+
 add_executable(minimum-number-of-arrows-to-burst-balloons 452-MinimumNumArrowsToBurstBalloons/main.cpp)
 target_link_libraries(minimum-number-of-arrows-to-burst-balloons PRIVATE Catch2::Catch2WithMain)
 
