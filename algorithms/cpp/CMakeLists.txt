@@ -172,6 +172,9 @@ target_link_libraries(range-sum-of-bst PRIVATE Catch2::Catch2WithMain)
 add_executable(maximum-difference-between-node-and-ancestor 1026-MaximumDifferenceBetweenNodeAndAncestor/main.cpp)
 target_link_libraries(maximum-difference-between-node-and-ancestor PRIVATE Catch2::Catch2WithMain)
 
+add_executable(lexicographically-smallest-equivalent-string 1061-LexicographicallySmallestEquivalentString/main.cpp)
+target_link_libraries(lexicographically-smallest-equivalent-string PRIVATE Catch2::Catch2WithMain)
+
 add_executable(longest-common-subsequence 1143-LongestCommonSubsequence/main.cpp)
 target_link_libraries(longest-common-subsequence PRIVATE Catch2::Catch2WithMain)
 
