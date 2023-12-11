@@ -49,6 +49,7 @@ I used PyCharm as my IDE. It is setup to use [unittest](https://docs.python.org/
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](algorithms/cpp/66-PlusOne/main.cpp) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](algorithms/cpp/67-AddBinary/main.cpp) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](algorithms/cpp/70-ClimbingStairs/main.cpp) | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C++](algorithms/cpp/94-BinaryTreeInorderTraversal/main.cpp) \| [Python](algorithms/python/94-BinaryTreeInorderTraversal/main.py) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C++](algorithms/cpp/100-SameTree/main.cpp) \| [Python](algorithms/python/100-SameTree/main.py) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](algorithms/cpp/125-ValidPalindrome/main.cpp) | Easy |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](algorithms/cpp/134-GasStation/main.cpp) | Medium |

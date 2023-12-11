@@ -115,6 +115,9 @@ target_link_libraries(add-binary PRIVATE Catch2::Catch2WithMain)
 add_executable(climbing-stairs 70-ClimbingStairs/main.cpp)
 target_link_libraries(climbing-stairs PRIVATE Catch2::Catch2WithMain)
 
+add_executable(binary-tree-inorder-traversal 94-BinaryTreeInorderTraversal/main.cpp)
+target_link_libraries(binary-tree-inorder-traversal PRIVATE Catch2::Catch2WithMain)
+
 add_executable(same-tree 100-SameTree/main.cpp)
 target_link_libraries(same-tree PRIVATE Catch2::Catch2WithMain)
 
